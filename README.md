@@ -14,7 +14,6 @@
 ### 0.2. Requirements
 - Docker & Docker Compose
 - git
-- GitHub account 
 - Optional (but recommended): [k6](https://grafana.com/docs/k6/latest/set-up/install-k6/)
   - You can run it inside Docker, but the experience is better if you install it locally. 
     - You get nice colors and dynamic progress bars!
