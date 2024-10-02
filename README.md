@@ -41,6 +41,4 @@ To verify everything is working, go to http://localhost:3333 and click the big b
 
 If you see a pizza recommendation, that's good!
 
-Also, open http://localhost:3000 and verify that you can see a Grafana instance. Nice! Now you are ready to start the workshop. 
-
-If you want to stop the environment, just run `docker compose down`.
+Also, open http://localhost:3000 and verify that you can see a Grafana instance. Nice! Now you are ready to start the workshop. If you want to stop the environment, just run `docker compose down`.
